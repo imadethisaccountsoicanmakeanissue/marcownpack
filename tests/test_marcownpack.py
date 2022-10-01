@@ -4,7 +4,7 @@ import unittest
 class TestMyPackage(unittest.TestCase):
 
     def test_installation(self):
-        import mypackage
+        import marcownpack
 
     def test_import_main(self):
-        from mypackage.mypackage import main
+        from package.marcownpack import main

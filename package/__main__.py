@@ -1,8 +1,8 @@
 import sys
 
-from .mypackage import main
+from .marcownpack import main
 
 
 if __name__ == '__main__':
-    sys.argv[0] = 'python -m mypackage'
+    sys.argv[0] = 'python -m marcownpack'
     sys.exit(main())

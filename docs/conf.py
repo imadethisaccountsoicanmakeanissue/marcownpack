@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'mypackage'
+project = 'marcownpack'
 copyright = '2021, My Name'
 author = 'My Name'
 
